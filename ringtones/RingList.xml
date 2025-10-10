@@ -1,0 +1,10 @@
+<CiscoIPPhoneRingList>
+  <Ring>
+    <DisplayName>Kill Bill</DisplayName>
+    <FileName>KillBill.raw</FileName>
+  </Ring>
+  <Ring>
+    <DisplayName>24 Ringer</DisplayName>
+    <FileName>24.raw</FileName>
+  </Ring>
+</CiscoIPPhoneRingList>
